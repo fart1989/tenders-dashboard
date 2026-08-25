@@ -1,0 +1,179 @@
+{
+  "tender_id": "338558990",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Электронный аукцион на поставку расходного материала для отделений учреждения (РЛ-26111-1) ГБУЗ «НИИ СП им Н.В. Склифосовского ДЗМ»",
+    "cost": "22521075.5",
+    "finishDate": "2026-08-21 09:00:00",
+    "accumulatedOkpd2": "(141230190) Одежда производственная и профессиональная прочая, не включенная в другие группировки",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / г. Москва (регион) /  г. Москва",
+    "company": {
+      "name": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ СКОРОЙ ПОМОЩИ ИМ. Н.В. СКЛИФОСОВСКОГО ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ\"",
+      "address": "129090, Г.МОСКВА, вн.тер.г. МУНИЦИПАЛЬНЫЙ ОКРУГ МЕЩАНСКИЙ, ПЛ. БОЛЬШАЯ СУХАРЕВСКАЯ, Д. 3, СТР. 1",
+      "inn": "7702036321",
+      "kpp": "770201001"
+    },
+    "srcNoticeNumber": "0373200067026000571",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0373200067026000571"
+  },
+  "files": [
+    {
+      "file_id": "850154695",
+      "status": "preview",
+      "format": "pdf",
+      "bytes": 95476,
+      "md5": "068ed6bd0377d412c5b71e3464dde28a"
+    },
+    {
+      "file_id": "850640372",
+      "status": "preview",
+      "format": "pdf",
+      "bytes": 95472,
+      "md5": "f73cdff7290a88c1fc44224648f113ee"
+    },
+    {
+      "file_id": "851141863",
+      "status": "preview",
+      "format": "pdf",
+      "bytes": 95469,
+      "md5": "ce2bad29f937189e12657c80cb94578d"
+    },
+    {
+      "file_id": "850154693",
+      "status": "ok",
+      "bytes": 151808,
+      "md5": "c222848bfad5d3a6fc75aa71858e1437",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\850154693.pdf"
+    },
+    {
+      "file_id": "850154694",
+      "status": "ok",
+      "bytes": 123655,
+      "md5": "ccc67ea3355d2d946a111d0041425cc3",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\850154694.pdf"
+    },
+    {
+      "file_id": "850154697",
+      "status": "ok",
+      "bytes": 110079,
+      "md5": "e05ed5492df2572eb2c9db13d7d1d37e",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\850154697.pdf"
+    },
+    {
+      "file_id": "850154698",
+      "status": "ok",
+      "bytes": 573920,
+      "md5": "2ca52e07b33bc1a3b776ebd442a8d58a",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\850154698.zip"
+    },
+    {
+      "file_id": "850154699",
+      "status": "ok",
+      "bytes": 142388,
+      "md5": "a96a8fe2a975b7e9d94ad369f963e78a",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\850154699.pdf"
+    },
+    {
+      "file_id": "850154700",
+      "status": "ok",
+      "bytes": 267663,
+      "md5": "0233bb899150b44f883ad1b7597a896f",
+      "format": "html",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\850154700.htm"
+    },
+    {
+      "file_id": "850640371",
+      "status": "ok",
+      "bytes": 113495,
+      "md5": "4718016cad3b82e8c675d94a6eda3ad0",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\850640371.pdf"
+    },
+    {
+      "file_id": "850640373",
+      "status": "ok",
+      "bytes": 268229,
+      "md5": "d39d3dfee87632589ecf21555e04628d",
+      "format": "html",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\850640373.htm"
+    },
+    {
+      "file_id": "851141862",
+      "status": "ok",
+      "bytes": 113500,
+      "md5": "c4720e6f159c471ae2de428a67f4c96e",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\851141862.pdf"
+    },
+    {
+      "file_id": "851141864",
+      "status": "ok",
+      "bytes": 268260,
+      "md5": "8f2e34a83b3fb92763ac0485ccbf0393",
+      "format": "html",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\851141864.htm"
+    },
+    {
+      "file_id": "851141865",
+      "status": "ok",
+      "bytes": 268259,
+      "md5": "4221e0996895650de5bf65f30e2c2909",
+      "format": "html",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\851141865.htm"
+    },
+    {
+      "file_id": "851379084",
+      "status": "ok",
+      "bytes": 113500,
+      "md5": "0d39c4c453652a7916ae4be5a93f7dde",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\851379084.pdf"
+    },
+    {
+      "file_id": "851379085",
+      "status": "ok",
+      "bytes": 95364,
+      "md5": "5fe784cb5f824e0e9d023d12bf98d537",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\851379085.pdf"
+    },
+    {
+      "file_id": "851379086",
+      "status": "ok",
+      "bytes": 14984,
+      "md5": "70576a0a3d6221dff83dae38e77df95c",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\851379086.zip"
+    },
+    {
+      "file_id": "851379087",
+      "status": "ok",
+      "bytes": 3660,
+      "md5": "c5909df21d6c5cc34baf1cdc7932df12",
+      "format": "html",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\851379087.htm"
+    },
+    {
+      "file_id": "851379088",
+      "status": "ok",
+      "bytes": 269334,
+      "md5": "7b2d6704589fff7585938c833562bd8b",
+      "format": "html",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338558990\\851379088.htm"
+    }
+  ]
+}

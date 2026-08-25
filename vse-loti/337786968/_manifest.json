@@ -1,0 +1,207 @@
+{
+  "tender_id": "337786968",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "is_non_pipe_category": false,
+    "diameters": [
+      80,
+      95,
+      105,
+      160,
+      185,
+      190,
+      200,
+      210,
+      219,
+      300,
+      315,
+      325,
+      415,
+      450,
+      500,
+      530,
+      550,
+      655,
+      710,
+      810,
+      1185,
+      1275
+    ],
+    "gosts_found": [
+      "ГОСТ 30732-2020",
+      "ГОСТ 32935-2014",
+      "ГОСТ 9045"
+    ]
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"УПРАВЛЕНИЕ ГОРОДСКОГО ХОЗЯЙСТВА\" МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ ГОРОДА ПЫТЬ-ЯХ объявляет тендер: Поставка компенсаторов сильфонных",
+    "cost": "3826640.66",
+    "finishDate": "2026-09-01 06:00:00",
+    "accumulatedOkpd2": "(281420210) Сильфоны",
+    "accumulatedApplyingRegionName": " Россия / Уральский ФО / Ханты-Мансийский АО - Югра / Ханты-Мансийск",
+    "company": {
+      "name": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"УПРАВЛЕНИЕ ГОРОДСКОГО ХОЗЯЙСТВА\" МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ ГОРОДА ПЫТЬ-ЯХ",
+      "address": "628384, УЛ МАГИСТРАЛЬНАЯ",
+      "inn": "8612007896",
+      "kpp": "861201001"
+    },
+    "srcNoticeNumber": "32616243215",
+    "sourceUrl": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616243215"
+  },
+  "files": [
+    {
+      "file_id": "848146431",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 24794,
+      "md5": "f8e53ce1a395ba2543ca676432a87b20"
+    },
+    {
+      "file_id": "848951351",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 25358,
+      "md5": "ce2c7b4a96e631d9f72c5190cf7ac524"
+    },
+    {
+      "file_id": "849279700",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 27227,
+      "md5": "b009680d0fa0b6adfeda04f00c44b3ba"
+    },
+    {
+      "file_id": "848146430",
+      "status": "ok",
+      "bytes": 182784,
+      "md5": "175acb57ef0601be3b342eb4053034ad",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\848146430.doc"
+    },
+    {
+      "file_id": "848146432",
+      "status": "ok",
+      "bytes": 95128,
+      "md5": "7bf09b2bfe07dece2c274998f30b8432",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\848146432.zip"
+    },
+    {
+      "file_id": "848146433",
+      "status": "ok",
+      "bytes": 48640,
+      "md5": "7bf3ed4da82cd90596688f29d2764ff9",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\848146433.doc"
+    },
+    {
+      "file_id": "848146434",
+      "status": "ok",
+      "bytes": 18007,
+      "md5": "a66a828e707f452ad11b1c320122e81f",
+      "format": "html",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\848146434.htm"
+    },
+    {
+      "file_id": "848553196",
+      "status": "ok",
+      "bytes": 64133,
+      "md5": "542f0e6d3e52c355cd35c6f3ce53a3e8",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\848553196.zip"
+    },
+    {
+      "file_id": "848951352",
+      "status": "ok",
+      "bytes": 64629,
+      "md5": "9109d8173a025fe543595e85d8791c5f",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\848951352.zip"
+    },
+    {
+      "file_id": "849279697",
+      "status": "ok",
+      "bytes": 64385,
+      "md5": "60c673494578be38c2447321397c4b5f",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\849279697.zip"
+    },
+    {
+      "file_id": "849279701",
+      "status": "ok",
+      "bytes": 156546,
+      "md5": "02baf230a01081c4ea661eda3fd77f0a",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\849279701.zip"
+    },
+    {
+      "file_id": "849494670",
+      "status": "ok",
+      "bytes": 64165,
+      "md5": "15726c35dcbda9a6a1fd438c9bbe352b",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\849494670.zip"
+    },
+    {
+      "file_id": "849716513",
+      "status": "ok",
+      "bytes": 64607,
+      "md5": "4a426421cf651fc1284a53220a42f227",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\849716513.zip"
+    },
+    {
+      "file_id": "849716514",
+      "status": "ok",
+      "bytes": 95216,
+      "md5": "3a960b6732716d09befe1b6bc35c5300",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\849716514.zip"
+    },
+    {
+      "file_id": "849716515",
+      "status": "ok",
+      "bytes": 26292,
+      "md5": "7031396ae82c4cdd4a27f50f1750ba51",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\849716515.zip"
+    },
+    {
+      "file_id": "849937147",
+      "status": "ok",
+      "bytes": 64011,
+      "md5": "9275a1719e33b24452932db18b07d888",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\849937147.zip"
+    },
+    {
+      "file_id": "849937149",
+      "status": "ok",
+      "bytes": 63996,
+      "md5": "92a0b6cff845cc2debba112a2bb705a4",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\849937149.zip"
+    },
+    {
+      "file_id": "851277415",
+      "status": "ok",
+      "bytes": 95256,
+      "md5": "9b102c68166ad6f31605c2c7db705c23",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\851277415.zip"
+    },
+    {
+      "file_id": "851277416",
+      "status": "ok",
+      "bytes": 68955,
+      "md5": "1023b7babbd3016fe0ab8996b74ac8b8",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\337786968\\851277416.zip"
+    }
+  ]
+}

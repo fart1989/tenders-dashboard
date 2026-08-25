@@ -1,0 +1,67 @@
+{
+  "tender_id": "338789406",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка медицинских расходных материалов",
+    "cost": "4035992",
+    "finishDate": "2026-08-21 07:00:00",
+    "accumulatedOkpd2": "(325050190) Изделия медицинские, в том числе хирургические, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия / Уральский ФО / Ханты-Мансийский АО - Югра / Ханты-Мансийск",
+    "company": {
+      "name": "БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ХАНТЫ-МАНСИЙСКОГО АВТОНОМНОГО ОКРУГА - ЮГРЫ \"ОКРУЖНАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА\"",
+      "address": "Российская Федерация, 628011, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Калинина ул, Д. 40, -",
+      "inn": "8601004445",
+      "kpp": "860101001"
+    },
+    "srcNoticeNumber": "0387200009126003324",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0387200009126003324"
+  },
+  "files": [
+    {
+      "file_id": "850769991",
+      "status": "preview",
+      "format": "html",
+      "bytes": 55656,
+      "md5": "8a4503644340873fc23087a0797a93dc"
+    },
+    {
+      "file_id": "850769989",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 218886,
+      "md5": "dae12fe6846c69bf2f91a36cd1e95544"
+    },
+    {
+      "file_id": "850769987",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 241069,
+      "md5": "c25310f5029487d4f5352cd300927372"
+    },
+    {
+      "file_id": "850769988",
+      "status": "ok",
+      "bytes": 151135,
+      "md5": "0de7b6308f47f7dd2219dbf9d0cf532f",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338789406\\850769988.zip"
+    },
+    {
+      "file_id": "850769990",
+      "status": "ok",
+      "bytes": 156436,
+      "md5": "e6599c8eef46ff8f4929d3785d091576",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338789406\\850769990.zip"
+    }
+  ]
+}

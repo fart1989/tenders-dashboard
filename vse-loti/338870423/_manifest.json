@@ -1,0 +1,75 @@
+{
+  "tender_id": "338870423",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "ЭА-№-14143/26 «Поставка медицинских изделий»",
+    "cost": "5286650",
+    "finishDate": "2026-08-25 04:00:00",
+    "accumulatedOkpd2": "(325050190) Изделия медицинские, в том числе хирургические, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия / Сибирский ФО / Красноярский край / Канск",
+    "company": {
+      "name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КАНСКАЯ МЕЖРАЙОННАЯ БОЛЬНИЦА\"",
+      "address": "Российская Федерация, 663604, Красноярский край, Канский р-н, Канск г, 40 лет Октября ул, Д. 15",
+      "inn": "2450031958",
+      "kpp": "245001001"
+    },
+    "srcNoticeNumber": "0119200000126014098",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0119200000126014098"
+  },
+  "files": [
+    {
+      "file_id": "851005008",
+      "status": "preview",
+      "format": "html",
+      "bytes": 31711,
+      "md5": "99018a4f8c03edfee92a899630a49899"
+    },
+    {
+      "file_id": "851005006",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 43431,
+      "md5": "eebc479d1d6ec50e4f201a92fbcf5977"
+    },
+    {
+      "file_id": "851005007",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 47616,
+      "md5": "b382ae50bb624351cd57b6840aba5c97"
+    },
+    {
+      "file_id": "851005003",
+      "status": "ok",
+      "bytes": 66048,
+      "md5": "3755982afdee44cf3e04e5c7fc29403c",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338870423\\851005003.doc"
+    },
+    {
+      "file_id": "851005004",
+      "status": "ok",
+      "bytes": 21753,
+      "md5": "1dbe608fc2f9545dee3cb3c5d0ab7758",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338870423\\851005004.zip"
+    },
+    {
+      "file_id": "851005005",
+      "status": "ok",
+      "bytes": 19010,
+      "md5": "d04bab61a956651228c2a674ab00aa6d",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338870423\\851005005.zip"
+    }
+  ]
+}

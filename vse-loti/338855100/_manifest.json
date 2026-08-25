@@ -1,0 +1,67 @@
+{
+  "tender_id": "338855100",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка реагентов для цитологической лаборатории",
+    "cost": "11838412.74",
+    "finishDate": "2026-08-26 04:00:00",
+    "accumulatedOkpd2": "(212023110) Реагенты диагностические",
+    "accumulatedApplyingRegionName": " Россия / Сибирский ФО / Иркутская область / Иркутск",
+    "company": {
+      "name": "государственное бюджетное учреждение здравоохранения \"Областной онкологический диспансер\"",
+      "address": "Российская Федерация, 664035, Иркутская обл, Иркутск г, Фрунзе ул, Д. 32",
+      "inn": "3809016338",
+      "kpp": "384901001"
+    },
+    "srcNoticeNumber": "0134200000126003647",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0134200000126003647"
+  },
+  "files": [
+    {
+      "file_id": "850963590",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 61448,
+      "md5": "2dfa71fb7425ad4afcc7dfb9277e4c5a"
+    },
+    {
+      "file_id": "850963593",
+      "status": "preview",
+      "format": "html",
+      "bytes": 51686,
+      "md5": "fc0ddb582f6e6cf20fdff993441b0105"
+    },
+    {
+      "file_id": "850963589",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 27987,
+      "md5": "f421a49595a4e19979a8c50805b74413"
+    },
+    {
+      "file_id": "850963591",
+      "status": "ok",
+      "bytes": 51616,
+      "md5": "e44793990e2eb8daab53f2c4ad27a499",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338855100\\850963591.zip"
+    },
+    {
+      "file_id": "850963592",
+      "status": "ok",
+      "bytes": 49457,
+      "md5": "ea83fc5e2d44b745f0a4669ccf8a7e49",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338855100\\850963592.zip"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "tender_id": "338834054",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "diameters": [
+      240
+    ],
+    "gosts_found": []
+  },
+  "details_summary": {
+    "name": "Поставка набора комплектующих для выполнения работ по установке светофорных объектов Т.1 и Т.7. и Г-образных опор в комплекте с кронштейном",
+    "cost": "185023223.6",
+    "finishDate": "2026-08-21 10:00:00",
+    "accumulatedOkpd2": "(279070) Устройства электрической сигнализации, электрооборудование для обеспечения безопасности или управления движением на железных дорогах, трамвайных путях, автомобильных дорогах, внутренних водных путях, площадках для парковки, в портовых сооружениях или на аэродромах / (261220) Платы звуковые, видеоплаты, сетевые и аналогичные платы для машин автоматической обработки информации / (27331) Изделия электроустановочные / (25112) Металлоконструкции строительные и их части / (27202) Аккумуляторы электрические и их части",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / Московская область / Подольск",
+    "company": {
+      "name": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ МОСКОВСКОЙ ОБЛАСТИ \"МОСАВТОДОР\"",
+      "address": "143421, МОСКОВСКАЯ ОБЛАСТЬ, г.о. КРАСНОГОРСК, ТЕР. АВТОДОРОГА БАЛТИЯ, КМ 26-Й, Д. 5, СТР. 2",
+      "inn": "5000001525",
+      "kpp": "502401001"
+    },
+    "srcNoticeNumber": "0148200005426000352",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0148200005426000352"
+  },
+  "files": [
+    {
+      "file_id": "850889663",
+      "status": "preview",
+      "format": "html",
+      "bytes": 525020,
+      "md5": "739ba0ac1464006406a0b3fae7ffe9f0"
+    },
+    {
+      "file_id": "850889652",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 492666,
+      "md5": "381225b212b01a427ea5c21873d64e30"
+    },
+    {
+      "file_id": "850889657",
+      "status": "preview",
+      "format": "unknown",
+      "bytes": 139188,
+      "md5": "9e3b95bb310e3d0d6de9cf2968ae6384"
+    },
+    {
+      "file_id": "850889646",
+      "status": "ok",
+      "bytes": 1156381,
+      "md5": "1b00fc66dc6cde0d2496a03e9e10d2ce",
+      "format": "unknown",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338834054\\850889646.bin"
+    },
+    {
+      "file_id": "850889647",
+      "status": "ok",
+      "bytes": 16404,
+      "md5": "6d2c9baa0f36a9148be8fbf7c07915f7",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338834054\\850889647.zip"
+    },
+    {
+      "file_id": "850889648",
+      "status": "ok",
+      "bytes": 16196,
+      "md5": "ee8ff7210396de1b6bb5da4ee0c44696",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338834054\\850889648.zip"
+    },
+    {
+      "file_id": "850889654",
+      "status": "ok",
+      "bytes": 14666,
+      "md5": "79e678d2a99da3186811fa16445df3af",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338834054\\850889654.zip"
+    },
+    {
+      "file_id": "850889655",
+      "status": "ok",
+      "bytes": 26264,
+      "md5": "1da30bda74af852ad6a94477ab1aa1f0",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338834054\\850889655.zip"
+    },
+    {
+      "file_id": "850889659",
+      "status": "ok",
+      "bytes": 44186,
+      "md5": "27c6f11b0f8e35387bb4506a4ae0194c",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338834054\\850889659.zip"
+    },
+    {
+      "file_id": "850889661",
+      "status": "ok",
+      "bytes": 247092,
+      "md5": "a9877a4da7ecc2ae4562eeb3a82067a9",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338834054\\850889661.zip"
+    }
+  ]
+}

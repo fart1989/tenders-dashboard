@@ -1,0 +1,99 @@
+{
+  "tender_id": "338694484",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка изделий медицинского назначения «Набор трубок для гемодиализа, одноразового использования» для нужд ГБУЗ «ММКЦ «Коммунарка» ДЗМ».",
+    "cost": "28839815",
+    "finishDate": "2026-08-20 09:00:00",
+    "accumulatedOkpd2": "(222129120) Трубки, шланги и рукава прочие пластмассовые",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / г. Москва (регион) /  г. Москва",
+    "company": {
+      "name": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ \"МОСКОВСКИЙ МНОГОПРОФИЛЬНЫЙ КЛИНИЧЕСКИЙ ЦЕНТР \"КОММУНАРКА\" ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ\"",
+      "address": "108814, Г.МОСКВА, вн.тер.г. МУНИЦИПАЛЬНЫЙ ОКРУГ КОММУНАРКА, П. КОММУНАРКА, УЛ. СОСЕНСКИЙ СТАН, Д. 8, СТР. 3",
+      "inn": "7716099554",
+      "kpp": "775101001"
+    },
+    "srcNoticeNumber": "0373200087826001632",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0373200087826001632"
+  },
+  "files": [
+    {
+      "file_id": "850514706",
+      "status": "preview",
+      "format": "pdf",
+      "bytes": 64853,
+      "md5": "26be3ac79a828dfb4efaf1fb11ee9525"
+    },
+    {
+      "file_id": "850514711",
+      "status": "preview",
+      "format": "html",
+      "bytes": 52361,
+      "md5": "d388b3ec9dc46b00de72333fad37e379"
+    },
+    {
+      "file_id": "850514707",
+      "status": "preview",
+      "format": "pdf",
+      "bytes": 113562,
+      "md5": "90e5706697f6a86e67dba6a9f706ea43"
+    },
+    {
+      "file_id": "850514703",
+      "status": "ok",
+      "bytes": 13348,
+      "md5": "89371dfce22939395160e8cbc620ba96",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338694484\\850514703.zip"
+    },
+    {
+      "file_id": "850514704",
+      "status": "ok",
+      "bytes": 151808,
+      "md5": "c222848bfad5d3a6fc75aa71858e1437",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338694484\\850514704.pdf"
+    },
+    {
+      "file_id": "850514705",
+      "status": "ok",
+      "bytes": 111207,
+      "md5": "cbfb92a72a3959f9044bd4fc73716aef",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338694484\\850514705.pdf"
+    },
+    {
+      "file_id": "850514708",
+      "status": "ok",
+      "bytes": 258804,
+      "md5": "5fcfa174ab235c285a2016fd6ed72c6c",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338694484\\850514708.pdf"
+    },
+    {
+      "file_id": "850514709",
+      "status": "ok",
+      "bytes": 259545,
+      "md5": "d60646fb60b5beadaacad61aa53c7f90",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338694484\\850514709.pdf"
+    },
+    {
+      "file_id": "850514710",
+      "status": "ok",
+      "bytes": 15560,
+      "md5": "528d3bc7e1638916dde5be7b26fc8cbc",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338694484\\850514710.zip"
+    }
+  ]
+}

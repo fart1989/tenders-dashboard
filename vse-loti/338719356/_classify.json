@@ -1,0 +1,12 @@
+{
+  "type": "unknown",
+  "is_profile": false,
+  "is_service": false,
+  "diameters": [
+    80,
+    100,
+    125,
+    150
+  ],
+  "gosts_found": []
+}

@@ -1,0 +1,107 @@
+{
+  "tender_id": "338923734",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "diameters": [
+      240
+    ],
+    "gosts_found": []
+  },
+  "details_summary": {
+    "name": "Выполнение работ и оказание услуг, связанных с одновременным выполнением инженерных изысканий, подготовкой проектной документации, выполнением работ по строительству местных трубопроводов воды или сточных вод по мероприятию: \"Строительство сети водоснабжения в д. Маслово Одинцовский г.о. (в т.ч. ПИР)\"",
+    "cost": "433335160",
+    "finishDate": "2026-09-01 10:00:00",
+    "accumulatedOkpd2": "(422122110) Работы строительные по прокладке местных трубопроводов воды или сточных вод",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / Московская область",
+    "company": {
+      "name": "АДМИНИСТРАЦИЯ ОДИНЦОВСКОГО ГОРОДСКОГО ОКРУГА МОСКОВСКОЙ ОБЛАСТИ",
+      "address": "Российская Федерация, 143009, Московская обл, Одинцовский р-н, Одинцово г, УЛИЦА МАРШАЛА ЖУКОВА, 28",
+      "inn": "5032004222",
+      "kpp": "503201001"
+    },
+    "srcNoticeNumber": "0148200005426000359",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ok20/view/common-info.html?regNumber=0148200005426000359"
+  },
+  "files": [
+    {
+      "file_id": "851155147",
+      "status": "preview",
+      "format": "html",
+      "bytes": 48772,
+      "md5": "6f9a3fd10bbb404d37589762152602f9"
+    },
+    {
+      "file_id": "851155138",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 516496,
+      "md5": "ea72fb25bf90dabad5e5f8a0a0056d2f"
+    },
+    {
+      "file_id": "851155145",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 735727,
+      "md5": "79a009ae9b97b1ec1f33eeb0d0f27237"
+    },
+    {
+      "file_id": "851155134",
+      "status": "ok",
+      "bytes": 23400,
+      "md5": "dcfcb63e7ef0aa2a773868d98877f514",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338923734\\851155134.zip"
+    },
+    {
+      "file_id": "851155135",
+      "status": "ok",
+      "bytes": 668949,
+      "md5": "c28582e8959ee3982cc42ff2899f7f73",
+      "format": "unknown",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338923734\\851155135.bin"
+    },
+    {
+      "file_id": "851155136",
+      "status": "ok",
+      "bytes": 16521,
+      "md5": "77a83b1b204ad8406972421d8699c39e",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338923734\\851155136.zip"
+    },
+    {
+      "file_id": "851155139",
+      "status": "ok",
+      "bytes": 37940,
+      "md5": "88cefdeed6c60de29b14208309b0f9e6",
+      "format": "unknown",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338923734\\851155139.bin"
+    },
+    {
+      "file_id": "851155141",
+      "status": "ok",
+      "bytes": 26641,
+      "md5": "e118becf362fdf2661c5992d3142ede4",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338923734\\851155141.zip"
+    },
+    {
+      "file_id": "851155142",
+      "status": "ok",
+      "bytes": 39702,
+      "md5": "7f2ff6ad7db3b977c5199fe6851decbf",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338923734\\851155142.zip"
+    },
+    {
+      "file_id": "851155146",
+      "status": "ok",
+      "bytes": 1088429,
+      "md5": "48725e2bbff7f9727bf3e690c645be5d",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338923734\\851155146.zip"
+    }
+  ]
+}

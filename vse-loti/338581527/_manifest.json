@@ -1,0 +1,96 @@
+{
+  "tender_id": "338581527",
+  "verdict": "WINNER",
+  "reason": "электросварная, диаметры [80, 89, 97, 100, 108, 110, 116, 125, 130, 135, 147, 150, 160, 200, 220, 230, 250, 300, 315, 355, 500, 595]",
+  "classify": {
+    "type": "electro",
+    "is_profile": false,
+    "diameters": [
+      80,
+      89,
+      97,
+      100,
+      108,
+      110,
+      116,
+      125,
+      130,
+      135,
+      147,
+      150,
+      160,
+      200,
+      220,
+      230,
+      250,
+      300,
+      315,
+      355,
+      500,
+      595
+    ],
+    "gosts_found": []
+  },
+  "details_summary": {
+    "name": "Оказание услуг (435)",
+    "cost": "528000000",
+    "finishDate": "2026-08-26 09:00:00",
+    "accumulatedOkpd2": "(811010) Услуги по комплексному обслуживанию помещений",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / г. Москва (регион) /  г. Москва",
+    "company": {
+      "name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"НАЦИОНАЛЬНЫЙ МЕДИЦИНСКИЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР КАРДИОЛОГИИ ИМЕНИ АКАДЕМИКА Е.И. ЧАЗОВА\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "address": "Российская Федерация, 121552, Москва, Академика Чазова ул, Д.15А",
+      "inn": "7731243467",
+      "kpp": "773101001"
+    },
+    "srcNoticeNumber": "0373100015826000414",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0373100015826000414"
+  },
+  "files": [
+    {
+      "file_id": "850206716",
+      "status": "preview",
+      "format": "html",
+      "bytes": 502205,
+      "md5": "9628d39857b898183e6e25254b38c6a5"
+    },
+    {
+      "file_id": "850206715",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 85850,
+      "md5": "6595d6eaf4708539be3db40fe50fa527"
+    },
+    {
+      "file_id": "850206691",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 18428,
+      "md5": "9e9b0b7645d77702fd0fa447a8d12a51"
+    },
+    {
+      "file_id": "850206692",
+      "status": "ok",
+      "bytes": 34196,
+      "md5": "50293daf38171ab8f53f9c51573dd669",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338581527\\850206692.zip"
+    },
+    {
+      "file_id": "850206698",
+      "status": "ok",
+      "bytes": 262829,
+      "md5": "7d913a8a5262a7c73e534bebf7332ba5",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338581527\\850206698.zip"
+    },
+    {
+      "file_id": "850206713",
+      "status": "ok",
+      "bytes": 2819584,
+      "md5": "d13a5b87cb3c21d4bd2a29c2774e75f1",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338581527\\850206713.doc"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "tender_id": "338721354",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": [
+      "ГОСТ 5356"
+    ]
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "ЭА-№-13602/26 «Поставка с доставкой дыхательных контуров для КГБУЗ «КМКБ № 20 им. И.С. Берзона»»",
+    "cost": "9016636",
+    "finishDate": "2026-08-21 04:00:00",
+    "accumulatedOkpd2": "(325013190) Инструменты и приспособления, применяемые в медицинских целях, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия / Сибирский ФО / Красноярский край",
+    "company": {
+      "name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКАЯ МЕЖРАЙОННАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА № 20 ИМЕНИ И.С. БЕРЗОНА\"",
+      "address": "660123, КРАСНОЯРСКИЙ КРАЙ, г.о. ГОРОД КРАСНОЯРСК, Г КРАСНОЯРСК, УЛ ИНСТРУМЕНТАЛЬНАЯ, Д. 12",
+      "inn": "2462011427",
+      "kpp": "246201001"
+    },
+    "srcNoticeNumber": "0119200000126014017",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0119200000126014017"
+  },
+  "files": [
+    {
+      "file_id": "850581230",
+      "status": "preview",
+      "format": "html",
+      "bytes": 306250,
+      "md5": "e75f462fa4f09373ebcae1d2023d661f"
+    },
+    {
+      "file_id": "850581229",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 45568,
+      "md5": "37635dc17a57f894db7fdb6b3031559c"
+    },
+    {
+      "file_id": "850581224",
+      "status": "preview",
+      "format": "unknown",
+      "bytes": 741896,
+      "md5": "b4288915a18eb622104096922883fe0b"
+    },
+    {
+      "file_id": "850581225",
+      "status": "ok",
+      "bytes": 71680,
+      "md5": "e72d3e25b13a2801416c111c4898ff1b",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338721354\\850581225.doc"
+    },
+    {
+      "file_id": "850581226",
+      "status": "ok",
+      "bytes": 23749,
+      "md5": "712bd65c94b2c428259e99cb46950302",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338721354\\850581226.zip"
+    },
+    {
+      "file_id": "850581227",
+      "status": "ok",
+      "bytes": 89937,
+      "md5": "694522b3894704c05549680408ef70e5",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338721354\\850581227.zip"
+    },
+    {
+      "file_id": "850581228",
+      "status": "ok",
+      "bytes": 44635,
+      "md5": "16909bb4b3f3ef5529cfa98d815eced0",
+      "format": "unknown",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338721354\\850581228.bin"
+    }
+  ]
+}

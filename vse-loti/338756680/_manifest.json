@@ -1,0 +1,83 @@
+{
+  "tender_id": "338756680",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка материалов для клинико-диагностической лаборатории",
+    "cost": "3900000",
+    "finishDate": "2026-08-20 09:00:00",
+    "accumulatedOkpd2": "(325013190) Инструменты и приспособления, применяемые в медицинских целях, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия / Приволжский ФО / Чувашская республика / Чебоксары",
+    "company": {
+      "name": "БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЧУВАШСКОЙ РЕСПУБЛИКИ \"ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА №1\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ ЧУВАШСКОЙ РЕСПУБЛИКИ",
+      "address": "428028, Чувашская Республика - Чувашия, Г. ЧЕБОКСАРЫ, ПР-КТ ТРАКТОРОСТРОИТЕЛЕЙ, Д.46",
+      "inn": "2126002610",
+      "kpp": "213001001"
+    },
+    "srcNoticeNumber": "0815500000526010909",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0815500000526010909"
+  },
+  "files": [
+    {
+      "file_id": "850681753",
+      "status": "preview",
+      "format": "html",
+      "bytes": 35151,
+      "md5": "c4dfcbea2e364d3fa036ba0dcc1f640f"
+    },
+    {
+      "file_id": "850681751",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 58480,
+      "md5": "71e6132f91c33d8446e224c516381590"
+    },
+    {
+      "file_id": "850681752",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 20136,
+      "md5": "8e38f633d69f4966456c3008e17bf805"
+    },
+    {
+      "file_id": "850681747",
+      "status": "ok",
+      "bytes": 87616,
+      "md5": "fcac917c0b7716507f3a2a19135a24a1",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338756680\\850681747.pdf"
+    },
+    {
+      "file_id": "850681748",
+      "status": "ok",
+      "bytes": 12852,
+      "md5": "64a7062ee013e1d7adcdbff17c5a21b8",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338756680\\850681748.zip"
+    },
+    {
+      "file_id": "850681749",
+      "status": "ok",
+      "bytes": 46130,
+      "md5": "c4376c206b336bbd6fc8542303876712",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338756680\\850681749.zip"
+    },
+    {
+      "file_id": "850681750",
+      "status": "ok",
+      "bytes": 29043,
+      "md5": "43f686852c8c3e57f0b278ef7a2a1f69",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338756680\\850681750.zip"
+    }
+  ]
+}

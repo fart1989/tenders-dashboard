@@ -1,0 +1,94 @@
+{
+  "tender_id": "338886083",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [
+      200,
+      340
+    ],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Полуавтоматический трубогиб",
+    "cost": "3760000",
+    "finishDate": "2026-08-24 09:00:00",
+    "accumulatedOkpd2": "(284131110) Машины гибочные металлообрабатывающие",
+    "accumulatedApplyingRegionName": " Россия / Уральский ФО / Челябинская область / Кыштым",
+    "company": {
+      "name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ИСПРАВИТЕЛЬНАЯ КОЛОНИЯ № 10 ГЛАВНОГО УПРАВЛЕНИЯ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ ПО ЧЕЛЯБИНСКОЙ ОБЛАСТИ\"",
+      "address": "Российская Федерация, 456871, Челябинская обл, Кыштым г, Челюскинцев ул, Д.76 -, -",
+      "inn": "7413008276",
+      "kpp": "741301001"
+    },
+    "srcNoticeNumber": "0369100014326000084",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0369100014326000084"
+  },
+  "files": [
+    {
+      "file_id": "851048567",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 101345,
+      "md5": "d80c45329a3416c1cd68d133cf653b69"
+    },
+    {
+      "file_id": "851048577",
+      "status": "preview",
+      "format": "html",
+      "bytes": 25091,
+      "md5": "fecbea8ca66e16de28f46e397d5a1f3a"
+    },
+    {
+      "file_id": "851263396",
+      "status": "preview",
+      "format": "html",
+      "bytes": 3393,
+      "md5": "40fb4fa667196b403198ba7491f542aa"
+    },
+    {
+      "file_id": "851048571",
+      "status": "ok",
+      "bytes": 34525,
+      "md5": "fcd4b7864c0a6102a271dac6949d82e2",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338886083\\851048571.zip"
+    },
+    {
+      "file_id": "851048572",
+      "status": "ok",
+      "bytes": 22248,
+      "md5": "4e52ce1333683d323e851970e5f1d18a",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338886083\\851048572.zip"
+    },
+    {
+      "file_id": "851048573",
+      "status": "ok",
+      "bytes": 59226,
+      "md5": "77177a7e71e0750a1a9f5ca4980d885d",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338886083\\851048573.zip"
+    },
+    {
+      "file_id": "851048575",
+      "status": "ok",
+      "bytes": 39175,
+      "md5": "f12096944162dbea43095f19ff6e613b",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338886083\\851048575.zip"
+    },
+    {
+      "file_id": "851263395",
+      "status": "ok",
+      "bytes": 155090,
+      "md5": "e79cd7f0fe8389a717ccee0c47bfa4e7",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338886083\\851263395.pdf"
+    }
+  ]
+}

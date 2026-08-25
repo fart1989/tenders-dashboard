@@ -1,0 +1,38 @@
+{
+  "tender_id": "338572836",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "is_non_pipe_category": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СЭ\" объявляет тендер: Право заключения договора на разработка рабочей документации тепловой изоляции оборудования и трубопроводов системы сжигания 00KPB10-59, системы концентрирования 00KPG, системы цементирования 00KPC, системы пиролиза 00KPB60-80 в здании 00UKS АЭС «Аккую» (Турецкая Республика).",
+    "cost": "41940123",
+    "finishDate": "2026-08-21 10:00:00",
+    "accumulatedOkpd2": "(711212110) Услуги по проектированию (включая изыскания) объектов использования атомной энергии",
+    "accumulatedApplyingRegionName": "",
+    "company": {
+      "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СЭ\"",
+      "address": "115280, Г.МОСКВА, УЛ. ЛЕНИНСКАЯ СЛОБОДА, Д. 19, ЭТАЖ 1",
+      "inn": "7725388922",
+      "kpp": "772501001"
+    },
+    "srcNoticeNumber": "4556691",
+    "sourceUrl": "https://www.rosatom.rts-tender.ru/market/pravo-zakliucheniia-dogovora-na-razrabotka-rabochei-dokumentatsii-teplovoi/tender-4556691/"
+  },
+  "files": [
+    {
+      "file_id": "850188821",
+      "status": "preview",
+      "format": "html",
+      "bytes": 3875,
+      "md5": "01f4aa7e763f6bb399652ad99f368ac3"
+    }
+  ]
+}

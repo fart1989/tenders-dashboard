@@ -1,0 +1,77 @@
+{
+  "tender_id": "338761643",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [
+      240
+    ],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Приобретение аварийного запаса аварийно-диспетчерских служб для локализации и ликвидации последствий аварий на объектах теплоснабжения (задвижки)",
+    "cost": "5747281.16",
+    "finishDate": "2026-08-20 10:00:00",
+    "accumulatedOkpd2": "(281413120) Задвижки",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / Московская область / Дмитров",
+    "company": {
+      "name": "КОМИТЕТ ПО ЗЕМЕЛЬНО-ИМУЩЕСТВЕННЫМ ОТНОШЕНИЯМ АДМИНИСТРАЦИИ ДМИТРОВСКОГО МУНИЦИПАЛЬНОГО ОКРУГА МОСКОВСКОЙ ОБЛАСТИ",
+      "address": "141800, МОСКОВСКАЯ ОБЛАСТЬ, Г ДМИТРОВ, ПЛ ТОРГОВАЯ, Д. 1",
+      "inn": "5007009731",
+      "kpp": "500701001"
+    },
+    "srcNoticeNumber": "0848300037426000232",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0848300037426000232"
+  },
+  "files": [
+    {
+      "file_id": "850697264",
+      "status": "preview",
+      "format": "html",
+      "bytes": 93960,
+      "md5": "44d3fab9ef836e1ea6622b50a156861e"
+    },
+    {
+      "file_id": "850697259",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 478021,
+      "md5": "cf801d8e180c62fec40f18e98b14cafd"
+    },
+    {
+      "file_id": "850697262",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 50449,
+      "md5": "e8d49490b548d756fddfa144c4c0118a"
+    },
+    {
+      "file_id": "850697260",
+      "status": "ok",
+      "bytes": 36401,
+      "md5": "8e2584a541c684221de310b245a58d27",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338761643\\850697260.zip"
+    },
+    {
+      "file_id": "850697261",
+      "status": "ok",
+      "bytes": 31911,
+      "md5": "a66cdf1903dcafac604102379595054b",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338761643\\850697261.zip"
+    },
+    {
+      "file_id": "850697263",
+      "status": "ok",
+      "bytes": 142646,
+      "md5": "1b1c6c7fd73c52e510e05877c84f5d49",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338761643\\850697263.zip"
+    }
+  ]
+}

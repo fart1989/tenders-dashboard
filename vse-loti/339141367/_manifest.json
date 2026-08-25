@@ -1,0 +1,83 @@
+{
+  "tender_id": "339141367",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка медицинского расходного материала для проведения кардиостимуляций (40) для нужд НИИ кардиологии Томского НИМЦ",
+    "cost": "4712250",
+    "finishDate": "2026-08-27 06:00:00",
+    "accumulatedOkpd2": "(325013110) Шприцы, иглы, катетеры, канюли и аналогичные инструменты",
+    "accumulatedApplyingRegionName": " Россия / Сибирский ФО / Томская область / Томск",
+    "company": {
+      "name": "НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ КАРДИОЛОГИИ - ФИЛИАЛ ФЕДЕРАЛЬНОГО ГОСУДАРСТВЕННОГО БЮДЖЕТНОГО НАУЧНОГО УЧРЕЖДЕНИЯ \"ТОМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ МЕДИЦИНСКИЙ ЦЕНТР РОССИЙСКОЙ АКАДЕМИИ НАУК\"",
+      "address": "634012, ТОМСКАЯ ОБЛАСТЬ, г.о. ГОРОД ТОМСК, Г. ТОМСК, УЛ. КИЕВСКАЯ, Д. 111А",
+      "inn": "7019011979",
+      "kpp": "700043002"
+    },
+    "srcNoticeNumber": "0365400001626000439",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0365400001626000439"
+  },
+  "files": [
+    {
+      "file_id": "851773914",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 121045,
+      "md5": "c86c07442e5bd29fd09f4c0c7e683cf5"
+    },
+    {
+      "file_id": "851773918",
+      "status": "preview",
+      "format": "html",
+      "bytes": 35177,
+      "md5": "d546587a599c6b3b29cb1a098ab6e6b3"
+    },
+    {
+      "file_id": "851773915",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 61758,
+      "md5": "4033f8d4781989d932d81b7c7d6763b8"
+    },
+    {
+      "file_id": "851773911",
+      "status": "ok",
+      "bytes": 110080,
+      "md5": "9197785df7a4dafeda7e1ff05932c07a",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339141367\\851773911.doc"
+    },
+    {
+      "file_id": "851773912",
+      "status": "ok",
+      "bytes": 82097,
+      "md5": "f8f8fda4375dce24ef00ce88b6514eea",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339141367\\851773912.zip"
+    },
+    {
+      "file_id": "851773913",
+      "status": "ok",
+      "bytes": 32416,
+      "md5": "62cfd5116f30801e657e1908f1694b83",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339141367\\851773913.zip"
+    },
+    {
+      "file_id": "851773916",
+      "status": "ok",
+      "bytes": 21712,
+      "md5": "928de11c645915f92bb6c39badd14c0c",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339141367\\851773916.zip"
+    }
+  ]
+}

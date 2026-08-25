@@ -1,0 +1,77 @@
+{
+  "tender_id": "339021433",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": [
+      "ГОСТ 25047-2023"
+    ]
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка наборов базовых для внутривенных вливаний",
+    "cost": "3800260",
+    "finishDate": "2026-08-26 07:00:00",
+    "accumulatedOkpd2": "(325050) Изделия медицинские, в том числе хирургические, прочие",
+    "accumulatedApplyingRegionName": " Россия / Уральский ФО / Ханты-Мансийский АО - Югра / Нижневартовск",
+    "company": {
+      "name": "БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ХАНТЫ-МАНСИЙСКОГО АВТОНОМНОГО ОКРУГА - ЮГРЫ \"НИЖНЕВАРТОВСКАЯ ГОРОДСКАЯ ПОЛИКЛИНИКА\"",
+      "address": "628606, Российская Федерация, Ханты-Мансийский Автономный округ - Югра АО, г. Нижневартовск, ул. Нефтяников, д. 9",
+      "inn": "8603132428",
+      "kpp": "860301001"
+    },
+    "srcNoticeNumber": "0387200009126003473",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0387200009126003473"
+  },
+  "files": [
+    {
+      "file_id": "851628204",
+      "status": "preview",
+      "format": "html",
+      "bytes": 74450,
+      "md5": "d84c5d2a27b9dc33578e43c63908e480"
+    },
+    {
+      "file_id": "851628203",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 175656,
+      "md5": "cb4702d678cee0426aba5673db6f256b"
+    },
+    {
+      "file_id": "851628200",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 251493,
+      "md5": "139a05db31cb93effbb3f87b50253b98"
+    },
+    {
+      "file_id": "851628199",
+      "status": "ok",
+      "bytes": 693860,
+      "md5": "623d848740332202341c5290b7ed34c6",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339021433\\851628199.zip"
+    },
+    {
+      "file_id": "851628201",
+      "status": "ok",
+      "bytes": 221637,
+      "md5": "e65a1300f85951637ae1b1a6d68c4b5e",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339021433\\851628201.zip"
+    },
+    {
+      "file_id": "851628202",
+      "status": "ok",
+      "bytes": 319850,
+      "md5": "4ea10e83d5279bb081324de1c1d7516f",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339021433\\851628202.zip"
+    }
+  ]
+}

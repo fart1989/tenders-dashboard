@@ -1,0 +1,85 @@
+{
+  "tender_id": "338818786",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [
+      220
+    ],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка изделий медицинских для травматологического отделения ГБУЗ ВО «ЦРБ №3»",
+    "cost": "5000000",
+    "finishDate": "2026-08-20 10:00:00",
+    "accumulatedOkpd2": "(325050190) Изделия медицинские, в том числе хирургические, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / Владимирская область / Александров",
+    "company": {
+      "name": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ВЛАДИМИРСКОЙ ОБЛАСТИ \"ЦЕНТРАЛЬНАЯ РАЙОННАЯ БОЛЬНИЦА № 3\"",
+      "address": "Российская Федерация, 601650, Владимирская обл, Александровский р-н, Александров г, Восстания 1905 г ул, Д. 9",
+      "inn": "3301000899",
+      "kpp": "330101001"
+    },
+    "srcNoticeNumber": "0328300068926000379",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0328300068926000379"
+  },
+  "files": [
+    {
+      "file_id": "850927232",
+      "status": "preview",
+      "format": "html",
+      "bytes": 1071449,
+      "md5": "cdff0f323e9b77189ea70d4682621d3b"
+    },
+    {
+      "file_id": "851204016",
+      "status": "preview",
+      "format": "html",
+      "bytes": 1072090,
+      "md5": "f6ce655ce7053a89bd2d0dbbbc4b8a09"
+    },
+    {
+      "file_id": "850927230",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 66670,
+      "md5": "371a82cddd2d0274ab93870e92d100b6"
+    },
+    {
+      "file_id": "850927225",
+      "status": "ok",
+      "bytes": 59310,
+      "md5": "e4c862b52bf2824e636ad53256017c2f",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338818786\\850927225.zip"
+    },
+    {
+      "file_id": "850927227",
+      "status": "ok",
+      "bytes": 58501,
+      "md5": "b5f52f185899d01651b4ea08158deedc",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338818786\\850927227.zip"
+    },
+    {
+      "file_id": "850927231",
+      "status": "ok",
+      "bytes": 30183,
+      "md5": "a4695a569428d26c59de018d202ad23f",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338818786\\850927231.zip"
+    },
+    {
+      "file_id": "851204015",
+      "status": "ok",
+      "bytes": 82198,
+      "md5": "eb9214f9fe4b0c94155825b834747206",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338818786\\851204015.zip"
+    }
+  ]
+}

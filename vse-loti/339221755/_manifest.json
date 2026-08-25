@@ -1,0 +1,21 @@
+{
+  "tender_id": "339221755",
+  "verdict": "NEEDS_PHONE",
+  "reason": "труб* не найдено ни в preview, ни в остальных файлах",
+  "source": "adjacent",
+  "details_summary": {
+    "name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"БРЯНСКАВТОДОР\" объявляет тендер: Закупка нерудных материалов",
+    "cost": "9872450",
+    "finishDate": "2026-08-25 10:00:00",
+    "accumulatedOkpd2": "(081212150) Камень природный дробленый",
+    "company": {
+      "name": "Акционерное общество \"Брянскавтодор\"",
+      "address": "241050, БРЯНСКАЯ ОБЛАСТЬ, Г. БРЯНСК, УЛ. ДУКИ, Д. 80, ОФИС 414",
+      "inn": "3250510627",
+      "kpp": "325701001"
+    },
+    "srcNoticeNumber": "32616308496",
+    "sourceUrl": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616308496"
+  },
+  "files_tried": 4
+}

@@ -1,0 +1,83 @@
+{
+  "tender_id": "338985607",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка изделий медицинского назначения",
+    "cost": "3461150",
+    "finishDate": "2026-08-25 07:00:00",
+    "accumulatedOkpd2": "(325050190) Изделия медицинские, в том числе хирургические, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия / Приволжский ФО / Республика Татарстан / Казань",
+    "company": {
+      "name": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"МЕЖРЕГИОНАЛЬНЫЙ КЛИНИКО-ДИАГНОСТИЧЕСКИЙ ЦЕНТР\"",
+      "address": "Российская Федерация, 420101, Татарстан Респ, Казань г, УЛ КАРБЫШЕВА,12А",
+      "inn": "1659034290",
+      "kpp": "165901001"
+    },
+    "srcNoticeNumber": "0711200005926000301",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0711200005926000301"
+  },
+  "files": [
+    {
+      "file_id": "851346502",
+      "status": "preview",
+      "format": "html",
+      "bytes": 2715,
+      "md5": "e66b8071f9bdc5000f1006b05088b4ba"
+    },
+    {
+      "file_id": "851346503",
+      "status": "preview",
+      "format": "html",
+      "bytes": 71217,
+      "md5": "0e7926df97fdb2375785e3ec667ec880"
+    },
+    {
+      "file_id": "851346501",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 302592,
+      "md5": "5a7835dde715ceac6e9cea5805185e91"
+    },
+    {
+      "file_id": "851346497",
+      "status": "ok",
+      "bytes": 38169,
+      "md5": "fb77d0e8749b1b27988c2e9331a311ce",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338985607\\851346497.zip"
+    },
+    {
+      "file_id": "851346498",
+      "status": "ok",
+      "bytes": 19588,
+      "md5": "f18113cff59a2f29dce9e1608729b3e5",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338985607\\851346498.zip"
+    },
+    {
+      "file_id": "851346499",
+      "status": "ok",
+      "bytes": 159232,
+      "md5": "d0a12940f26c661829bb43d47de12284",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338985607\\851346499.doc"
+    },
+    {
+      "file_id": "851346500",
+      "status": "ok",
+      "bytes": 92838,
+      "md5": "324dea78b8441380a233dbfd7090396a",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338985607\\851346500.zip"
+    }
+  ]
+}

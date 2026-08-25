@@ -1,0 +1,75 @@
+{
+  "tender_id": "338724488",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка медицинских изделий (Протез клапана сердца с системой транскатетерной доставки, Система доставки протеза клапана сердца трансфеморальная)",
+    "cost": "5250000",
+    "finishDate": "2026-08-20 05:00:00",
+    "accumulatedOkpd2": "(325022192) Протезы сердечно-сосудистые / (325013110) Шприцы, иглы, катетеры, канюли и аналогичные инструменты",
+    "accumulatedApplyingRegionName": " Россия / Сибирский ФО / Новосибирская область / Новосибирск",
+    "company": {
+      "name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"НАЦИОНАЛЬНЫЙ МЕДИЦИНСКИЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР ИМЕНИ АКАДЕМИКА Е.Н. МЕШАЛКИНА\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "address": "Российская Федерация, 630055, Новосибирская обл, Новосибирск г, Речкуновская ул, Д. 15",
+      "inn": "5408106348",
+      "kpp": "540801001"
+    },
+    "srcNoticeNumber": "0351100002926001398",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0351100002926001398"
+  },
+  "files": [
+    {
+      "file_id": "850594788",
+      "status": "preview",
+      "format": "html",
+      "bytes": 33659,
+      "md5": "d7cbd16b8c3adb114b80382c21246ceb"
+    },
+    {
+      "file_id": "850594786",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 229376,
+      "md5": "93137ba248a50a2732a79a3dda1df33b"
+    },
+    {
+      "file_id": "850594787",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 45056,
+      "md5": "0981ce9f305534d522f9e24e5e6daa64"
+    },
+    {
+      "file_id": "850594780",
+      "status": "ok",
+      "bytes": 32598,
+      "md5": "09be48b80af9a4f19af9f5454c6b346a",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338724488\\850594780.zip"
+    },
+    {
+      "file_id": "850594781",
+      "status": "ok",
+      "bytes": 31316,
+      "md5": "38afee34ceb4bc029132d49b17e260e4",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338724488\\850594781.zip"
+    },
+    {
+      "file_id": "850594784",
+      "status": "ok",
+      "bytes": 22110,
+      "md5": "0c2b02db3f68dac33f4c7894cd545036",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338724488\\850594784.zip"
+    }
+  ]
+}

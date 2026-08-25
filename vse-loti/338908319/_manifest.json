@@ -1,0 +1,70 @@
+{
+  "tender_id": "338908319",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [
+      427,
+      500
+    ],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка трубы гофрированной для нужд филиала \"Мособлводхоз\" ФГБВУ \"Центррегионводхоз\"",
+    "cost": "4527996",
+    "finishDate": "2026-08-21 09:00:00",
+    "accumulatedOkpd2": "(222121129) Трубы полимерные жесткие прочие",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / Московская область / Красногорск",
+    "company": {
+      "name": "ФИЛИАЛ \"МОСОБЛВОДХОЗ\"",
+      "address": "117420, Г.МОСКВА, вн.тер.г. МУНИЦИПАЛЬНЫЙ ОКРУГ ЧЕРЕМУШКИ, УЛ. НАМЁТКИНА, Д. 10Б",
+      "inn": "5008028127",
+      "kpp": "772843001"
+    },
+    "srcNoticeNumber": "0373400009626000140",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0373400009626000140"
+  },
+  "files": [
+    {
+      "file_id": "851110329",
+      "status": "preview",
+      "format": "html",
+      "bytes": 27512,
+      "md5": "aa69c63e579b84caaaa1fad2cfb30cec"
+    },
+    {
+      "file_id": "851110327",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 221184,
+      "md5": "fb576ca55fc2f8d239d774a623f4be03"
+    },
+    {
+      "file_id": "851110328",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 74752,
+      "md5": "0864f8e79000271e37b1f5353b3edb8f"
+    },
+    {
+      "file_id": "851110322",
+      "status": "ok",
+      "bytes": 25534,
+      "md5": "714aa17bb3bd8c575809cdcb7c8b9b5a",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338908319\\851110322.zip"
+    },
+    {
+      "file_id": "851110325",
+      "status": "ok",
+      "bytes": 111104,
+      "md5": "67a41ba5c7d551a40177bb8a88cca047",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338908319\\851110325.doc"
+    }
+  ]
+}

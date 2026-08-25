@@ -1,0 +1,195 @@
+{
+  "tender_id": "339013588",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка медицинских изделий (ВМП)",
+    "cost": "10000000",
+    "finishDate": "2026-08-24 09:00:00",
+    "accumulatedOkpd2": "(325013110) Шприцы, иглы, катетеры, канюли и аналогичные инструменты / (325022190) Протезы органов человека, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / г. Москва (регион) /  г. Москва",
+    "company": {
+      "name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ФЕДЕРАЛЬНЫЙ ЦЕНТР МОЗГА И НЕЙРОТЕХНОЛОГИЙ\" ФЕДЕРАЛЬНОГО МЕДИКО-БИОЛОГИЧЕСКОГО АГЕНТСТВА",
+      "address": "Российская Федерация, 117513, Москва, Островитянова ул, Д. 1 СТР. 10",
+      "inn": "7728434750",
+      "kpp": "772801001"
+    },
+    "srcNoticeNumber": "0373400007726000894",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0373400007726000894"
+  },
+  "files": [
+    {
+      "file_id": "851431170",
+      "status": "preview",
+      "format": "html",
+      "bytes": 695207,
+      "md5": "464b1e1155c8ab156437735f3992fbb8"
+    },
+    {
+      "file_id": "851431168",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 53656,
+      "md5": "ad33946463f07d5b411d08aedf1e378b"
+    },
+    {
+      "file_id": "851431151",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 12693,
+      "md5": "b76f46307213ad3bc5a1407cdce4d7ca"
+    },
+    {
+      "file_id": "851431150",
+      "status": "ok",
+      "bytes": 86814,
+      "md5": "764f182670925f47aa7dc9c688e5ff4a",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431150.pdf"
+    },
+    {
+      "file_id": "851431152",
+      "status": "ok",
+      "bytes": 87353,
+      "md5": "f84fe20aea022a7980211772e90fa545",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431152.pdf"
+    },
+    {
+      "file_id": "851431153",
+      "status": "ok",
+      "bytes": 86911,
+      "md5": "008755a409836c657de7018d56c6b845",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431153.pdf"
+    },
+    {
+      "file_id": "851431154",
+      "status": "ok",
+      "bytes": 13369,
+      "md5": "0be3af73429c960677c127cca2ace186",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431154.zip"
+    },
+    {
+      "file_id": "851431155",
+      "status": "ok",
+      "bytes": 89771,
+      "md5": "dfd6970a6185fe53952e85352c4b3d01",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431155.pdf"
+    },
+    {
+      "file_id": "851431156",
+      "status": "ok",
+      "bytes": 93942,
+      "md5": "63785687a9ba30c4009f0d19e66b9e89",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431156.pdf"
+    },
+    {
+      "file_id": "851431157",
+      "status": "ok",
+      "bytes": 91707,
+      "md5": "1912e4cd1715e755c7bd87f9f1931eaa",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431157.pdf"
+    },
+    {
+      "file_id": "851431158",
+      "status": "ok",
+      "bytes": 88209,
+      "md5": "31594cbaeff1731dd0824ee81f4f8b3e",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431158.pdf"
+    },
+    {
+      "file_id": "851431159",
+      "status": "ok",
+      "bytes": 85973,
+      "md5": "72a5bb5ed8f6f989beb11f2f5cc1d8ec",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431159.pdf"
+    },
+    {
+      "file_id": "851431160",
+      "status": "ok",
+      "bytes": 90520,
+      "md5": "1d0eaeecf6665e47368b728bf036b931",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431160.pdf"
+    },
+    {
+      "file_id": "851431161",
+      "status": "ok",
+      "bytes": 86911,
+      "md5": "e19ad047342718446f112f8fd0d31005",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431161.pdf"
+    },
+    {
+      "file_id": "851431162",
+      "status": "ok",
+      "bytes": 33206,
+      "md5": "8dd9075a0ee2dd12cbf174c5dc85663d",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431162.zip"
+    },
+    {
+      "file_id": "851431163",
+      "status": "ok",
+      "bytes": 85716,
+      "md5": "fdbd1e7cf78922a81e7e1ec207f4558f",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431163.pdf"
+    },
+    {
+      "file_id": "851431164",
+      "status": "ok",
+      "bytes": 87353,
+      "md5": "04e998488ba42056476c4723bcfb9c3c",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431164.pdf"
+    },
+    {
+      "file_id": "851431165",
+      "status": "ok",
+      "bytes": 87196,
+      "md5": "dcd48bdf210b43248df5fc4f7347552c",
+      "format": "pdf",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431165.pdf"
+    },
+    {
+      "file_id": "851431166",
+      "status": "ok",
+      "bytes": 31399,
+      "md5": "77520470beedd3077a2aa190be5313c0",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431166.zip"
+    },
+    {
+      "file_id": "851431167",
+      "status": "ok",
+      "bytes": 18991,
+      "md5": "aecdefae7cb6cc8d74f2dd69d825bd14",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431167.zip"
+    },
+    {
+      "file_id": "851431169",
+      "status": "ok",
+      "bytes": 74649,
+      "md5": "9eb4a12e922a0456943eb1c308fd7475",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\339013588\\851431169.zip"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "tender_id": "338358869",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка систем для переливания инфузионных растворов, крови и кровезаменителей в 2027 году",
+    "cost": "3760410",
+    "finishDate": "2026-08-20 10:00:00",
+    "accumulatedOkpd2": "(325050190) Изделия медицинские, в том числе хирургические, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / Московская область / Королев",
+    "company": {
+      "name": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ МОСКОВСКОЙ ОБЛАСТИ \"КОРОЛЁВСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА\"",
+      "address": "Российская Федерация, 141070, Московская обл, Королёв г, Циолковского ул, Д. 24",
+      "inn": "5018000184",
+      "kpp": "501801001"
+    },
+    "srcNoticeNumber": "0348300075526000276",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0348300075526000276"
+  },
+  "files": [
+    {
+      "file_id": "849656732",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 58368,
+      "md5": "8163e2e992688acc4fa8cab1d9b41e10"
+    },
+    {
+      "file_id": "849656737",
+      "status": "preview",
+      "format": "html",
+      "bytes": 63034,
+      "md5": "d4981d54a9e17a5e4e29783023c7dbfc"
+    },
+    {
+      "file_id": "851170217",
+      "status": "preview",
+      "format": "html",
+      "bytes": 63806,
+      "md5": "ee581dea8487be2847123daba29163bb"
+    },
+    {
+      "file_id": "849656716",
+      "status": "ok",
+      "bytes": 475093,
+      "md5": "4661bc6789e2932d72f5b805190cc408",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338358869\\849656716.zip"
+    },
+    {
+      "file_id": "849656718",
+      "status": "ok",
+      "bytes": 91121,
+      "md5": "4efa6e8f6359ab02151dbce27c23bc55",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338358869\\849656718.zip"
+    },
+    {
+      "file_id": "849656720",
+      "status": "ok",
+      "bytes": 21525,
+      "md5": "23ec320aec91e5b24d045beea40cf08f",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338358869\\849656720.zip"
+    },
+    {
+      "file_id": "849656725",
+      "status": "ok",
+      "bytes": 152064,
+      "md5": "f86406df988eb0033e8cb04077e78fa9",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338358869\\849656725.doc"
+    },
+    {
+      "file_id": "849656733",
+      "status": "ok",
+      "bytes": 42309,
+      "md5": "3775eb9c9c536f50649e8a97e149ab0c",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338358869\\849656733.zip"
+    },
+    {
+      "file_id": "849656734",
+      "status": "ok",
+      "bytes": 51914,
+      "md5": "d310e3ee13df7995b2d60d21bf24994e",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338358869\\849656734.zip"
+    }
+  ]
+}

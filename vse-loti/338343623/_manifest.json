@@ -1,0 +1,67 @@
+{
+  "tender_id": "338343623",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка технических средств реабилитации (специальных средств при нарушениях функции выделения) с целью социального обеспечения граждан.",
+    "cost": "4303260",
+    "finishDate": "2026-08-27 02:00:00",
+    "accumulatedOkpd2": "(325050141) Мочеприемники и калоприемники",
+    "accumulatedApplyingRegionName": " Россия / Сибирский ФО / Забайкальский край / Забайкальск",
+    "company": {
+      "name": "ОТДЕЛЕНИЕ ФОНДА ПЕНСИОННОГО И СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ЗАБАЙКАЛЬСКОМУ КРАЮ",
+      "address": "Российская Федерация, 672007, Забайкальский край, Чита г, Чкалова ул, Д. 160Б",
+      "inn": "7536008244",
+      "kpp": "753601001"
+    },
+    "srcNoticeNumber": "0291100000426000139",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0291100000426000139"
+  },
+  "files": [
+    {
+      "file_id": "849615466",
+      "status": "preview",
+      "format": "html",
+      "bytes": 61582,
+      "md5": "d6da6bdc9631a1af3a69591982c0831c"
+    },
+    {
+      "file_id": "849615464",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 397824,
+      "md5": "65fd3d3790aed11d8b56f29abb4f1e95"
+    },
+    {
+      "file_id": "849615465",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 58880,
+      "md5": "79f096f8103659cc6b285bb7262e88e3"
+    },
+    {
+      "file_id": "849615457",
+      "status": "ok",
+      "bytes": 123392,
+      "md5": "96bee5cafaf580bb2e6535c727993547",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338343623\\849615457.doc"
+    },
+    {
+      "file_id": "849615463",
+      "status": "ok",
+      "bytes": 127488,
+      "md5": "ebe6ceda20e7c0f6175b98940dd633ab",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338343623\\849615463.doc"
+    }
+  ]
+}

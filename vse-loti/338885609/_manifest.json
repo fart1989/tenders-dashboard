@@ -1,0 +1,76 @@
+{
+  "tender_id": "338885609",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "is_non_pipe_category": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка наборов для системы инъекции контрастного вещества к инъекционной системе Medrad Salient",
+    "cost": "3621500",
+    "finishDate": "2026-08-25 08:00:00",
+    "accumulatedOkpd2": "(325050190) Изделия медицинские, в том числе хирургические, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / Ярославская область / Ярославль",
+    "company": {
+      "name": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ ЯРОСЛАВСКОЙ ОБЛАСТИ \"ОБЛАСТНАЯ КЛИНИЧЕСКАЯ ОНКОЛОГИЧЕСКАЯ БОЛЬНИЦА\"",
+      "address": "Российская Федерация, 150054, Ярославская обл, Ярославль г, Октября пр-кт, Д. 67",
+      "inn": "7606028790",
+      "kpp": "760601001"
+    },
+    "srcNoticeNumber": "0171200001926003569",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0171200001926003569"
+  },
+  "files": [
+    {
+      "file_id": "851047344",
+      "status": "preview",
+      "format": "html",
+      "bytes": 24858,
+      "md5": "197b071c18ab8aa74354c058683db28c"
+    },
+    {
+      "file_id": "851047342",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 180449,
+      "md5": "416a92f5626be48727d9ad7dd0d9fcba"
+    },
+    {
+      "file_id": "851047343",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 32538,
+      "md5": "16006991cbca15c3adaa45af42c4a6ce"
+    },
+    {
+      "file_id": "851047339",
+      "status": "ok",
+      "bytes": 31232,
+      "md5": "ef4337872e5bcb278af7b18b6f9e46ca",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338885609\\851047339.doc"
+    },
+    {
+      "file_id": "851047340",
+      "status": "ok",
+      "bytes": 124816,
+      "md5": "f943929ad6c01a03b05213b8c5f93a80",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338885609\\851047340.zip"
+    },
+    {
+      "file_id": "851047341",
+      "status": "ok",
+      "bytes": 90638,
+      "md5": "dc4332598955e40d730f0885d0ff26bf",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338885609\\851047341.zip"
+    }
+  ]
+}

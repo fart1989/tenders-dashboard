@@ -1,0 +1,67 @@
+{
+  "tender_id": "338776909",
+  "verdict": "NEEDS_PHONE",
+  "reason": "электросварная, диаметр не указан — уточнить",
+  "classify": {
+    "type": "electro",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка стальных труб",
+    "cost": "3936277.19",
+    "finishDate": "2026-08-20 05:00:00",
+    "accumulatedOkpd2": "(242013130) Трубы стальные электросварные",
+    "accumulatedApplyingRegionName": " Россия / Уральский ФО / Курганская область / Макушино",
+    "company": {
+      "name": "МУНИЦИПАЛЬНОЕ УЧРЕЖДЕНИЕ АДМИНИСТРАЦИЯ МАКУШИНСКОГО МУНИЦИПАЛЬНОГО ОКРУГА КУРГАНСКОЙ ОБЛАСТИ",
+      "address": "641600, Курганская область МАКУШИНСКИЙ, ГОРОД МАКУШИНО, Г МАКУШИНО, УЛ ЛЕНИНА, Д. 85",
+      "inn": "4513008958",
+      "kpp": "451301001"
+    },
+    "srcNoticeNumber": "0843500000226004741",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0843500000226004741"
+  },
+  "files": [
+    {
+      "file_id": "850739761",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 28799,
+      "md5": "1879b422d0639f39569f1874152e6db5"
+    },
+    {
+      "file_id": "850739764",
+      "status": "preview",
+      "format": "html",
+      "bytes": 57929,
+      "md5": "c6bc679413c683157bad6cb7564bcda8"
+    },
+    {
+      "file_id": "850739762",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 47409,
+      "md5": "4419b2f9357a8ed21d05d35fbf4b798a"
+    },
+    {
+      "file_id": "850739760",
+      "status": "ok",
+      "bytes": 44105,
+      "md5": "f125385a6bf75ff913e15536ae5b14a8",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338776909\\850739760.zip"
+    },
+    {
+      "file_id": "850739763",
+      "status": "ok",
+      "bytes": 20753,
+      "md5": "29ac1a400ab0c3f98fb956a67d3b236a",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338776909\\850739763.zip"
+    }
+  ]
+}

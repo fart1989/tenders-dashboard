@@ -1,0 +1,67 @@
+{
+  "tender_id": "338407940",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "Поставка изделий медицинского назначения: Аппликатор клипс лапароскопический",
+    "cost": "4998600",
+    "finishDate": "2026-08-21 09:00:00",
+    "accumulatedOkpd2": "(325050190) Изделия медицинские, в том числе хирургические, прочие, не включенные в другие группировки",
+    "accumulatedApplyingRegionName": " Россия / Приволжский ФО / Чувашская республика / Чебоксары",
+    "company": {
+      "name": "БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЧУВАШСКОЙ РЕСПУБЛИКИ \"РЕСПУБЛИКАНСКИЙ КЛИНИЧЕСКИЙ ОНКОЛОГИЧЕСКИЙ ДИСПАНСЕР\" МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ ЧУВАШСКОЙ РЕСПУБЛИКИ",
+      "address": "Российская Федерация, 428020, Чувашская Республика - Чувашия, Чебоксары г, Федора Гладкова ул, Д.23",
+      "inn": "2128015999",
+      "kpp": "213001001"
+    },
+    "srcNoticeNumber": "0815500000526010674",
+    "sourceUrl": "https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0815500000526010674"
+  },
+  "files": [
+    {
+      "file_id": "849785207",
+      "status": "preview",
+      "format": "html",
+      "bytes": 38809,
+      "md5": "01dbeeab3ee817cf4964d5765c7f3312"
+    },
+    {
+      "file_id": "849785205",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 178688,
+      "md5": "34e3dcb7e18944f6db2cd846114739b7"
+    },
+    {
+      "file_id": "849785206",
+      "status": "preview",
+      "format": "ole2",
+      "bytes": 61440,
+      "md5": "a3d9631d7949cbc229272c08b5df9546"
+    },
+    {
+      "file_id": "849785203",
+      "status": "ok",
+      "bytes": 42767,
+      "md5": "ea45f490f8c13a63b55a9802cb786319",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338407940\\849785203.zip"
+    },
+    {
+      "file_id": "849785204",
+      "status": "ok",
+      "bytes": 65536,
+      "md5": "a05585bf7a0a831ce61eb5fd31b895ae",
+      "format": "ole2",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338407940\\849785204.doc"
+    }
+  ]
+}

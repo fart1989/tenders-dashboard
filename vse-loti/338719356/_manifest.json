@@ -1,0 +1,64 @@
+{
+  "tender_id": "338719356",
+  "verdict": "NEEDS_PHONE",
+  "reason": "тип трубы не определён по preview — нужна документация",
+  "classify": {
+    "type": "unknown",
+    "is_profile": false,
+    "is_service": false,
+    "diameters": [
+      80,
+      100,
+      125,
+      150
+    ],
+    "gosts_found": []
+  },
+  "source": "root",
+  "details_summary": {
+    "name": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДА РЯЗАНИ \"РЯЗАНСКОЕ МУНИЦИПАЛЬНОЕ ПРЕДПРИЯТИЕ ТЕПЛОВЫХ СЕТЕЙ\" объявляет тендер: Поставка клапанов запорно-регулирующих",
+    "cost": "4494138.23",
+    "finishDate": "2026-08-21 09:00:00",
+    "accumulatedOkpd2": "(281411121) Клапаны регулирующие",
+    "accumulatedApplyingRegionName": " Россия /  Центральный ФО / Рязанская область / Рязань",
+    "company": {
+      "name": "Муниципальное унитарное предприятие города Рязани \"Рязанское муниципальное предприятие тепловых сетей\"",
+      "address": "Российская Федерация, 390044, Рязанская обл, Рязань г, УЛ. КОСТЫЧЕВА, Д.15 А/-, -",
+      "inn": "6227000888",
+      "kpp": "622901001"
+    },
+    "srcNoticeNumber": "32616285115",
+    "sourceUrl": "https://zakupki.gov.ru/223/purchase/public/purchase/info/common-info.html?regNumber=32616285115"
+  },
+  "files": [
+    {
+      "file_id": "850577632",
+      "status": "preview",
+      "format": "html",
+      "bytes": 22184,
+      "md5": "e1bbf353af35fda814ceab721bda9780"
+    },
+    {
+      "file_id": "850577631",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 46865,
+      "md5": "6298533c980e9bd3a81e8ed4c656f432"
+    },
+    {
+      "file_id": "850577630",
+      "status": "preview",
+      "format": "zip",
+      "bytes": 236162,
+      "md5": "edfb5d0ad23d9acf39962a4e73b1f103"
+    },
+    {
+      "file_id": "851811130",
+      "status": "ok",
+      "bytes": 16725,
+      "md5": "2d5b9ea062c69cdf810120b28f5dc426",
+      "format": "zip",
+      "saved_as": "C:\\AI\\AI-Work\\tenders\\tmp\\vse-loti\\338719356\\851811130.zip"
+    }
+  ]
+}
