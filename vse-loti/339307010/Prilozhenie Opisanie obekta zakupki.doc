@@ -1,0 +1,2276 @@
+﻿<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><title>Закупка</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View><w:Zoom>90</w:Zoom><w:DoNotOptimizeForBrowser/></w:WordDocument></xml><![endif]-->
+<style><!-- /* Style Definitions */@page{	size: 21cm 29.7cm;  /* A4 */	margin: 1.5cm 1cm 2cm 2cm; /* Margins: 2 cm on each side */	mso-page-orientation: portrait;  }@page Section1   { } div.Section1   {page:Section1;}
+        @page {
+            size: 21cm 29.7cm;
+            margin-right: 1.5cm;
+            margin-top: 2cm;
+            margin-bottom: 2cm
+        }
+
+        p {
+            color: #000000;
+            line-height: 115%;
+            orphans: 2;
+            widows: 2;
+            margin-bottom: 0.25cm;
+            direction: ltr;
+            background: transparent
+        }
+
+            p.western {
+                font-family: "Calibri", sans-serif;
+                font-size: 11pt;
+                so-language: ru-RU
+            }
+
+            p.cjk {
+                font-family: "Calibri", sans-serif;
+                font-size: 11pt
+            }
+
+            p.ctl {
+                font-family: "Times New Roman", serif;
+                font-size: 11pt;
+                so-language: ar-SA
+            }
+    table.top {width: 17.5cm;}--></style></head>
+<body lang=RU-RU style='tab-interval:.5in'><div class=Section1>
+
+    <p style="line-height: 100%;   text-align: right;">
+        Приложение<br /><br />
+    </p>
+    <p align="center" style="margin-bottom:0;text-align:center;line-height:normal">
+        <font face="Times New Roman, serif">
+            <font size="3" style="font-size: 14pt">
+                <b>
+                    Описание объекта закупки
+                </b>
+            </font>
+        </font>
+    </p>
+        <p align="center" style="margin-bottom:0;text-align:center;line-height:normal">
+            <font face="Times New Roman, serif">
+                <font size="3" style="font-size: 12pt">
+                    <b>
+                        Раздел «Общие требования»
+                    </b>
+                </font>
+            </font>
+        </p>
+        <p class="western" style="margin-bottom:7.95pt;line-height:116%">
+            <br />
+        </p>
+        <table width="99%" cellpadding="0" cellspacing="0" style="border-collapse: collapse">
+            <col width="15*" /><col width="85*" /><col width="155*" />
+
+            <thead>
+                <tr>
+                    <td width="6%" style="border: 1px solid #000000; padding: 0">
+                        <p class="western" align="center">
+
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>№ п/п</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="33%" style="border: 1px solid #000000; padding: 0">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>Наименование товара, работы, услуги</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="61%" style="border: 1px solid #000000; padding: 0">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif" style="font-size: 12pt;padding:0; margin: 0">
+                                <b>Требования к товару, работе, услуге</b>
+                            </font>
+                        </p>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td width="6%" style="border: 1px solid #000000; padding: 0">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>1</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="33%" style="border: 1px solid #000000; padding: 0">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>2</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="61%" style="border: 1px solid #000000; padding: 0">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>3</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                </tr>
+            </thead>
+
+            <tbody>
+                
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            1
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 2
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	<br/>
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            2
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 3
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            3
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 4
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            4
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 5
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            5
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 6
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            6
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 7
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            7
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 8
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            8
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 9
+
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            9
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 10
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            10
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 11
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 10704-91 «Трубы стальные электросварные прямошовные. Сортамент», ГОСТ 10705-80 «Трубы стальные электросварные. Технические условия»	
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                        <tr valign="top">
+                            <td width="6%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            11
+                                        </font>
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="33%" style="border: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+                                            Труба стальная
+                                        </font>
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font face="Times New Roman, serif">
+                                            <font size="3" style="font-size: 12pt">
+                                                Тип 1
+                                            </font>
+                                        </font>
+                                    </p>
+                                                                                            </td>
+
+                            <td width="61%" style="border: 1px solid #000000; padding: 0 0.19cm">
+
+                                <p class="western" align="justify" style="margin-bottom: 0">
+                                    <font face="Times New Roman, serif">
+                                        <font size="3" style="font-size: 12pt">
+ГОСТ 3262-75 Трубы стальные водогазопроводные. Технические условия
+
+                                        </font>
+                                    </font>
+                                </p>
+
+                            </td>
+                        </tr>
+                
+            </tbody>
+        </table>
+        <p class="western" align="justify" style="line-height: 107%; margin-bottom: 0.28cm">
+            <br />
+            <br />
+        </p>
+            <p align="center" style="margin-bottom:0;text-align:center;line-height:normal">
+            <font face="Times New Roman, serif">
+                <font size="3" style="font-size: 12pt">
+                    <b>
+                        Раздел «Показатели, позволяющие определить соответствие закупаемого товара потребностям заказчика»
+                    </b>
+                </font>
+            </font>
+        </p>
+        <p class="western" style="margin-bottom:7.95pt;line-height:116%">
+            <br />
+        </p>
+        <table width="99%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 1px solid #000000;">
+            <col width="5*" />
+            <col width="30*" />
+            <col width="25*" />
+            <col width="30*" />
+            <col width="10*" />
+            <thead>
+                <tr>
+                    <td width="5%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>№ п/п</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="30%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>Наименование товара</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="25%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif" style="font-size: 12pt;padding:0; margin: 0">
+                                <b>Наименование характеристики</b>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="30%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif" style="font-size: 12pt;padding:0; margin: 0">
+                                <b>Значение характеристики</b>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="10%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif" style="font-size: 12pt;padding:0; margin: 0">
+                                <b>Единица измерения характеристики</b>
+                            </font>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="5%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>1</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="30%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif">
+                                <font size="3" style="font-size: 12pt;padding:0; margin: 0">
+                                    <b>2</b>
+                                </font>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="25%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif" style="font-size: 12pt;padding:0; margin: 0">
+                                <b>3</b>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="30%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif" style="font-size: 12pt;padding:0; margin: 0">
+                                <b>4</b>
+                            </font>
+                        </p>
+                    </td>
+                    <td width="10%" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000;">
+                        <p class="western" align="center">
+                            <font face="Times New Roman, serif" style="font-size: 12pt;padding:0; margin: 0">
+                                <b>5</b>
+                            </font>
+                        </p>
+                    </td>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        1
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 2
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            57
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            3.50
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        2
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 3
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            76
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            3.50
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        3
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 4
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            89
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            3.50
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        4
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 5
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                             Электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            108
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            4
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        5
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 6
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            133
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            4.50
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        6
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 7
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы 
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            159
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            4.50
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        7
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 8
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы 
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                             Электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            219
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            5
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        8
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 9
+
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы 
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            325
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            6
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        9
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 10
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            426
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            6
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        10
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="6" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 11
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Тип трубы 
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Электросварная
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Марка стали
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Наружный диаметр
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            530
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            7
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                        <tr valign="top">
+                            <td width="5%" rowspan="7" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" align="center">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        11
+                                    </font>
+                                </p>
+                            </td>
+
+                            <td width="30%" rowspan="7" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                <p class="western" style="margin-bottom: 0">
+                                    <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                        Труба стальная
+                                    </font>
+                                </p>
+
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип 1
+                                        </font>
+                                    </p>
+                                                                                            </td>
+                        </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                            <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                                Марка стали
+                                            </font>
+                                        </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Ст20
+                                        </font>
+                                    </p>
+
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип покрытия
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Неоцинкованная
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Тип трубы 
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Водогазопроводная
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Толщина стенки
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            3.20
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Условный проход
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            25
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Миллиметр
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Форма профиля 	
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            Круглая
+                                        </font>
+                                    </p>
+                                </td>
+                                <td rowspan="1" style="border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding: 0 0.19cm">
+                                    <p class="western">
+                                        <font size="3" style="font-size: 12pt" face="Times New Roman, serif">
+                                            
+                                        </font>
+                                    </p>
+                                </td>
+                            </tr>
+
+                </tbody>
+            </table>
+    <p class="western" align="justify" style="line-height: 107%; margin-bottom: 0.28cm">
+        <br />
+        <br />
+    </p>
+
+</div></body></html>
