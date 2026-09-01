@@ -238,33 +238,34 @@ function toggleFiles(id, btn) {
   });
 
   // Фильтр (Хозяин 2026-09-01)
-  // Чип ВСЕГДА цветной. Активный = крупнее, неактивный = меньше.
+  // Дефолт: все чипы мелкие, фильтр не активен (показываем всё).
+  // Клик на чип → он большой, фильтр применяется только к нему.
+  // Повторный клик на активном → возврат к «всё видно».
   var bar = document.querySelector('.filter-bar');
   if (bar) {
-    var activeFilters = new Set(['review', 'ok', 'no', 'think']);
-    // Применить начальное состояние
-    bar.querySelectorAll('.chip').forEach(function(chip) {
-      if (activeFilters.has(chip.getAttribute('data-st'))) {
-        chip.classList.add('active');
-      }
-    });
+    var activeFilter = null;  // null = без фильтра, иначе строка ('review'|'ok'|'no'|'think')
+
     bar.querySelectorAll('.chip').forEach(function(chip) {
       chip.addEventListener('click', function() {
         var st = chip.getAttribute('data-st');
-        if (activeFilters.has(st)) {
-          activeFilters.delete(st);
+        if (activeFilter === st) {
+          // повторный клик — снимаем фильтр
+          activeFilter = null;
           chip.classList.remove('active');
         } else {
-          activeFilters.add(st);
+          // снимаем active со всех чипов, ставим только на текущий
+          bar.querySelectorAll('.chip').forEach(function(c) { c.classList.remove('active'); });
+          activeFilter = st;
           chip.classList.add('active');
         }
         applyFilter();
       });
     });
+
     function applyFilter() {
       document.querySelectorAll('tbody tr.lot-row').forEach(function(tr) {
         var st = tr.getAttribute('data-st') || 'review';
-        tr.style.display = activeFilters.has(st) ? '' : 'none';
+        tr.style.display = (!activeFilter || activeFilter === st) ? '' : 'none';
       });
     }
     function refreshCounts() {
